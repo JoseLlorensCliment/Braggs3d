@@ -1,10 +1,10 @@
 import React from "react";
 import { Routes, Route, Link, useNavigate } from "react-router-dom";
-import Home from "./pages/Home";
-import Shop from "./pages/Shop";
-import ConfigBoquilla from "./pages/ConfigBoquilla";
-import Contacto from "./pages/Contacto";
-import Cart from "./pages/Cart";
+import Home from "./pages/home";
+import Shop from "./pages/shop";
+import ConfigBoquilla from "./pages/configBoquilla";
+import Contacto from "./pages/contacto";
+import Cart from "./pages/cart";
 import Success from "./pages/Success";
 import Cancel from "./pages/Cancel";
 import FAQ from "./pages/FAQ";
