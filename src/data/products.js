@@ -1,8 +1,8 @@
 export const PRODUCTS = [
-    { id: 1, name: "Boquilla Trompa Bach 7S", price: 35, img: "/images/products/Boquilla negra SIN FONDO.png" },
-    { id: 2, name: "Boquilla Trombón Bach 3G", price: 35, img: "/images/products/BoquillaAZUL OSCURO.jpg" },
-    { id: 3, name: "Boquilla Yamaha 32C4", price: 35, img: "/images/products/BoquillaROJA.jpg" },
-    { id: 4, name: "Boquilla Verde", price: 35, img: "/images/products/BoquillaVERDE.jpg" },
+    { id: 1, name: "Boquilla para Trompa", price: 35, img: "/images/products/Boquilla negra SIN FONDO.png" },
+    { id: 2, name: "Boquilla para Trombón", price: 35, img: "/images/products/BoquillaAZUL OSCURO.jpg" },
+    { id: 3, name: "Boquilla para Trompeta", price: 35, img: "/images/products/BoquillaROJA.jpg" },
+    { id: 4, name: "Boquilla para Tuba", price: 35, img: "/images/products/BoquillaVERDE.jpg" },
     {
         id: 5,
         name: "SOPORTE MAGNÉTICO PARA ATRIL",
